@@ -1,2 +1,1 @@
-# Arduino-Samples
-Arduino Projects with Arduino UNO and Esp32
+Arduino öğrenmek için örnek kodlar
